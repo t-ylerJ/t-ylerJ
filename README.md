@@ -1,6 +1,5 @@
-👋 Hi, I’m @t-ylerJ. Welcome to my GitHub Page! Here you'll find a handful of projects that i've worked on, either alone or in collaboration with others.
-
-😄 I’m looking to collaborate on any open source projects (primarily in JavaScript) as a a full-stack or front-end software developer. Contact me to get something started!  
+Welcome to my GitHub Page! Here you'll find a handful of projects that i've worked on, either alone or with others.
+I’m looking to collaborate on any open source projects (primarily in JavaScript) as a a full-stack or front-end software developer. Contact me to get something started!  
 📫 How to reach me:
     Email: tylerj0937@gmail.com
     LinkedIn: https://www.linkedin.com/in/t-ylerj/ <br>
