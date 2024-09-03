@@ -1,9 +1,9 @@
-👋 Hi, I’m @t-ylerJ. Welcome to my GitHub Page!
+👋 Hi, I’m @t-ylerJ. Welcome to my GitHub Page! Here you'll find a handful of projects that i've worked on, either alone or in collaboration with others.
 
 😄 I’m looking to collaborate on any open source projects (primarily in JavaScript) as a a full-stack or front-end software developer. Contact me to get something started!  
 📫 How to reach me:
     Email: tylerj0937@gmail.com
-    LinkedIn: https://www.linkedin.com/in/t-ylerj/
+    LinkedIn: https://www.linkedin.com/in/t-ylerj/ <br>
 ⚡ Fun fact: I'm an avid traveler with a passion for exploring new things. I've been to 40 states in the U.S. and 15 countries. My goal in the next 2-3 years is to hit all 50 states and make it to 20 countries. 
 
 ## ![</>](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5) Tech Stack ![</>](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
